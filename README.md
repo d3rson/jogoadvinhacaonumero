@@ -1,2 +1,0 @@
-# jogoadvinhacaonumero
-Created with CodeSandbox
